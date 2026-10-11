@@ -4,6 +4,8 @@ Una experiencia web **original y experimental** inspirada en el lenguaje visual 
 
 > **Aviso de portafolio:** AETHER es un estudio ficticio. Los seis proyectos, sus nombres y descripciones son **conceptos originales**, no encargos de clientes. No se atribuyen premios, resultados comerciales ni relaciones con marcas reales. Esta implementación es una reinterpretación técnica y artística, **no una copia del sitio de referencia**.
 
+🔗 **Demo en vivo:** [https://portafolio-aether.vercel.app/](https://portafolio-aether.vercel.app/)
+
 ## Tecnologías
 
 - **Next.js 15** con App Router, **React 19** y **TypeScript**.
